@@ -1,6 +1,7 @@
 # Vending Machine
 
-**BASIC DESCRIPTION ON THE MACHINE**
+## **BASIC DESCRIPTION ON THE MACHINE**
+
 The Vending machine has 16 different food items arranged in it. The food items are classified into 4 sections they are CHIPS, CHOCOLATES, SOFT  DRINKS, INSTANT NOODLES. Each of the above categories have 4 different types of food in them. Like this there are 16 items in the wending machine. Food items belong to same type of section are arranged in same column, Thus there are 4 different columns.
 
 
@@ -8,7 +9,8 @@ The cost of food in each column is 15, 20, 25, 30 also the arrangement is in asc
 
 
 
-**WORKING**
+## **WORKING**
+
 1)Firstly, the user has to press the start(reset) button0, to start the vending machine.
 2)Secondly, the user should give food_categ using sw[0:1] (00--> chips, 01--> chocolates, 10--> soft drinks, 11--> instant noodles).
 3)After this, the user should give select using sw[2:3] (00--> 15Rs, 01--> 20Rs, 10--> 25Rs, 11--> 30Rs).
