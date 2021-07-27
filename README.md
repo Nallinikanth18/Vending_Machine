@@ -2,8 +2,7 @@
 
 ## **BASIC DESCRIPTION ON THE MACHINE**
 
-The Vending machine has 16 different food items arranged in it. The food items are classified into 4 sections they are CHIPS, CHOCOLATES, SOFT  DRINKS, INSTANT NOODLES. Each of the above categories have 4 different types of food in them. Like this there are 16 items in the wending machine. Food items belong to same type of section are arranged in same column, Thus there are 4 different columns.
-
+The Vending machine has 16 different food items arranged in it. The food items are classified into 4 sections they are CHIPS, CHOCOLATES, SOFT  DRINKS, INSTANT NOODLES. Each of the above categories has 4 different types of food in them. Like this there are 16 items in the wending machine. Food items belong to same type of section are arranged in same column, Thus there are 4 different columns.
 
 The cost of food in each column is 15, 20, 25, 30 also the arrangement is in ascending order (top to bottom according to price). And the machine accepts only 5,10,20 Rs coins. User can also use cancel button to cancel the order and the machine also gives change if necessary.
 
